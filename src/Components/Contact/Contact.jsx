@@ -6,6 +6,10 @@ const Contact = () => {
     <section className="contact">
         <form>
             <h2>Contact Form</h2>
+            <div className="input-box">
+                <label>Full Name</label>
+
+            </div>
 
         </form>
 
