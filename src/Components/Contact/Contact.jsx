@@ -14,7 +14,11 @@ const Contact = () => {
                 <label>Email Address</label>
                 <input type="email" className="field" placeholder='Enter your email' required/>
                 </div>
-            
+            <div className="input-box">
+                <label>Your Message</label>
+                <textarea name="" id="" placeholder='Enter your message' required></textarea>
+                </div>
+                <button type="submit"></button>
         </form>
     </section>
   )
