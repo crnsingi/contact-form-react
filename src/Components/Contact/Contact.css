@@ -38,3 +38,8 @@ form .input-box {
     color: #333;
     margin-top: 8px;
 }
+
+.input-box .field.mess { 
+    height: 200px;
+    resize: none;
+}
