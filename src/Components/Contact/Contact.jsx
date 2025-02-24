@@ -23,8 +23,8 @@ const Contact = () => {
     
         if (res.success) {
           Swal.fire({
-            title: "Good job!",
-            text: "You clicked the button",
+            title: "Sucess!",
+            text: "Message sent sucessfully!",
             icon: "success"
           });
         }
