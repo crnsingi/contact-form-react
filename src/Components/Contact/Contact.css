@@ -16,3 +16,8 @@ form {
     color: #333;
     margin: 25px;
 }
+
+form h2 { 
+    font-size: 30px;
+    text-align: center;
+}
